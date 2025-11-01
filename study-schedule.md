@@ -1,5 +1,9 @@
 # Study Schedule
 
+## Goals
+
+Finish Rocketseat GoStack 2020 learning path in 6 weeks
+
 ## Week schedule
 | Dia da semana | Horas de estudos | Projeto pessoal |
 | :------------ | ---------------: | --------------: |
